@@ -89,7 +89,7 @@
                     <a href="cursos">Cursos</a>
                     <a href="alunos">Alunos</a>
                     <a href="matriculas">Matrícula</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a target="_blank" href="https://github.com/eldersergio/pluri">GitHub</a>
                 </div>
             </div>
         </div>
